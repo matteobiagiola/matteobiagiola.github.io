@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/neural-embeddings-for-web-testing.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/search-based-path-and-input-data-generation-for-web-application-testing.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/diversity-based-web-test-generation.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/web-test-dependency-detection.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/dependency-aware-web-test-generation.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/testing-the-plasticity-of-reinforcement-learning-based-systems.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/testing-deep-reinforcement-learning-agents-with-surrogate-models.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/adversarial-testing-with-reinforcement-learning-a-case-study-on-autonomous-driving.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/two-is-better-than-one.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/SBFT_2024_CPS_Tool_Competition_Report.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/boundary-state-generation-for-testing-and-improvement-of-autonomous-driving-systems.pdf</loc>
+      <lastmod>2024-06-16</lastmod>
+   </url>
+
+</urlset>
