@@ -3,6 +3,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/muPRL-a-mutation-testing-pipeline-for-deep-reinforcement-learning-based-on-real-faults.pdf</loc>
+      <lastmod>2024-11-08</lastmod>
+   </url>
+
+   <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/reinforcement-learning-for-online-testing-of-autonomous-driving-systems-a-replication-and-extension-study.pdf</loc>
+      <lastmod>2024-11-08</lastmod>
+   </url>
+
+   <url>
       <loc>https://matteobiagiola.github.io/assets/pdfs/neural-embeddings-for-web-testing.pdf</loc>
       <lastmod>2024-06-16</lastmod>
    </url>
@@ -43,8 +53,8 @@
    </url>
 
    <url>
-      <loc>https://matteobiagiola.github.io/assets/pdfs/two-is-better-than-one.pdf</loc>
-      <lastmod>2024-06-16</lastmod>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/two-is-better-than-one-digital-siblings-to-improve-automous-driving-testing.pdf</loc>
+      <lastmod>2024-11-08</lastmod>
    </url>
 
    <url>
