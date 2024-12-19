@@ -3,6 +3,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
+      <loc>https://matteobiagiola.github.io/assets/pdfs/improving-the-readability-of-automatically-generated-tests-using-large-language-models.pdf</loc>
+      <lastmod>2024-12-19</lastmod>
+   </url>
+
+   <url>
       <loc>https://matteobiagiola.github.io/assets/pdfs/muPRL-a-mutation-testing-pipeline-for-deep-reinforcement-learning-based-on-real-faults.pdf</loc>
       <lastmod>2024-11-08</lastmod>
    </url>
