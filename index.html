@@ -117,6 +117,13 @@
       <div class="ctitle">2025</div>
 
       <div class="pub">
+        <div class="pub-title">Adaptive Random Testing with Qgrams: The Illusion Comes True</div>
+        <div class="pub-authors">Matteo Biagiola, Robert Feldt, Paolo Tonella</div>
+        <div class="pub-venue">Foundations on Software Engineering, FSE 2025</div>
+        <a href="assets/pdfs/adaptive-random-testing-with-qgrams-the-illusion-comes-true.pdf">[PDF]</a>
+      </div>
+
+      <div class="pub">
         <div class="pub-title">μPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults</div>
         <div class="pub-authors">Deepak-George Thomas, Matteo Biagiola, Nargiz Humbatova, Mohammad Wardat, Gunel Jahangirova, Hridesh Rajan, Paolo Tonella</div>
         <div class="pub-venue">International Conference on Software Engineering, ICSE 2025</div>
@@ -427,6 +434,18 @@
             demail.hidden = false;
         }
       })
+
+      document.addEventListener("DOMContentLoaded", function() {
+        var lastUpdated = new Date(document.lastModified);
+
+        var day = ("0" + lastUpdated.getDate()).slice(-2);
+        var month = ("0" + (lastUpdated.getMonth() + 1)).slice(-2);
+        var year = lastUpdated.getFullYear();
+
+        var formattedDate = day + '/' + month + '/' + year;
+        document.getElementById('last-updated').textContent = formattedDate;
+      });
+
     </script>
 
   <footer>
@@ -436,7 +455,7 @@
       <br>
       Icons from <a href="https://pictogrammers.com/library/mdi/">Picto Programmers</a> and <a href="https://uxwing.com/">Uxwing</a>
     </p>
-    <p>Last update December 21, 2024</p>
+    <p>Last update <span id="last-updated"></span></p>
   </footer>
 
   </body>
