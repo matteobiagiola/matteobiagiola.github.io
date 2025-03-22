@@ -22,7 +22,7 @@ body {
 @media (min-width: 992px) {
     .container {
         width: 970px;
-     }
+    }
 }
 
 .row {
@@ -34,11 +34,34 @@ body {
     text-align: left;
 }
 
+.icon-container {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .icon {
+    text-align: center;
+    font-size: 24px;
+    }
+    
+    .icon i {
+    font-size: 48px;
+    color: #007BFF;
+    }
+    
+    .icon p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+    }
+
 .research-container {
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
 }
 
 .research-interest {
@@ -49,15 +72,15 @@ body {
 
 .research-item {
     font-size: 14px;
-    width: 33.3%;
     padding: 20px;
     text-align: center;
     float: left;
 }
 
 .research-icon {
-    width: 150px;
-    height: 150px;
+    width: 100%;
+    height: auto; /* Keep aspect ratio */
+    padding: 10px;
 }
 
 .profile {
@@ -108,6 +131,9 @@ h2 {
 @media (min-width: 992px) {
     h2, .pub-venue, .pub-authors, .pub-title {
         max-width: 890px;
+    }
+    .research-icon {
+        width: 60%; /* Adjust width for desktop view */
     }
 }
 #dpic img {
