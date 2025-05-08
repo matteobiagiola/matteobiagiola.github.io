@@ -129,7 +129,7 @@ h2 {
     margin: 5px 0 10px 0;
 }
 @media (min-width: 992px) {
-    h2, .pub-venue, .pub-authors, .pub-title {
+    h2, .pub-venue, .pub-authors, .pub-award, .pub-title {
         max-width: 890px;
     }
     .research-icon {
@@ -183,6 +183,11 @@ hr {
 .pub-venue {
     display: inline;
     color: gray;
+    font-size: 20px;
+}
+.pub-award {
+    display: inline;
+    color: red;
     font-size: 20px;
 }
 .pub-authors {
